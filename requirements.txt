@@ -1,6 +1,4 @@
-# Core Streamlit and UI
-streamlit>=1.28.0
-streamlit-components-v1>=0.0.1
+
 
 # Computer Vision and Pose Detection
 opencv-python==4.10.0.84
